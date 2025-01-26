@@ -1,0 +1,1 @@
+#Exercício 082 - Dividindo valores em várias listas
